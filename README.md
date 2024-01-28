@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vladyslav Lapin</h1>
 <h3 align="center">Purposeful Software Engineer from Ukraine</h3>
 
-- 🔭 I’m currently working on [LightChess](https://github.com/MagisterFelix/LightChess)
-
 - 🌱 I’m currently learning **AI/ML**
 
 - 📫 How to reach me **vladyslav.lapin.14@gmail.com**

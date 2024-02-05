@@ -33,7 +33,7 @@
 
 <h3 align="left">📊 Statistics:</h3>
 <p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=magisterfelix&show_icons=true&show=reviews,discussions_started,discussions_answered&rank_icon=github&card_width=800" alt="github_stats"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=magisterfelix&show_icons=true&show=reviews,discussions_started,discussions_answered&rank_icon=github&hide_title=true&card_width=800" alt="github_stats"/></a>
 </p>
 <p align="left">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=MagisterFelix&card_width=800" alt="streak_stats"/></a>

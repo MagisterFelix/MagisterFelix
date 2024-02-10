@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vladyslav Lapin</h1>
+
 <h3 align="center">⭐ Purposeful Software Engineer from Ukraine ⭐</h3>
 
 <h3 align="left">⚡ Connect with me:</h3>
+
 <p align="left">
   <a href="mailto:vladyslav.lapin.14@gmail.com" target="_blank" rel="noreferrer"><img align="center" src="https://www.svgrepo.com/show/250627/email-mail.svg" alt="email" height="30" width="40"/></a>
   <a href="https://www.leetcode.com/magisterfelix" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40"/></a>
@@ -10,6 +12,7 @@
 </p>
 
 <h3 align="left">🧰 Languages and Tools:</h3>
+
 <p align="left">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img align="center" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
@@ -32,9 +35,9 @@
 </p>
 
 <h3 align="left">📊 Statistics:</h3>
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=magisterfelix&show_icons=true&show=reviews,discussions_started,discussions_answered&rank_icon=github&hide_title=true&card_width=800" alt="github_stats"/></a>
-</p>
-<p align="left">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=MagisterFelix&card_width=800" alt="streak_stats"/></a>
-</p>
+
+[![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=MagisterFelix&theme=default&show_icons=true&show=reviews,discussions_started,discussions_answered&rank_icon=github&hide_title=true&card_width=800#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=MagisterFelix&theme=github_dark&show_icons=true&show=reviews,discussions_started,discussions_answered&rank_icon=github&hide_title=true&card_width=800#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+[![GitHub stats-Light](https://streak-stats.demolab.com?user=MagisterFelix&card_width=800#gh-light-mode-only)](https://github.com/DenverCoder1/github-readme-streak-stats#gh-light-mode-only)
+[![GitHub stats-Dark](https://streak-stats.demolab.com?user=MagisterFelix&theme=github-dark-blue&ring=FB8C00&fire=FB8C00&currStreakLabel=FB8C00&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&card_width=800#gh-dark-mode-only)](https://github.com/DenverCoder1/github-readme-streak-stats#gh-dark-mode-only)

@@ -37,7 +37,7 @@
 <h3 align="left">📊 Statistics:</h3>
 
 [![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=MagisterFelix&theme=default&show_icons=true&show=reviews,discussions_started,discussions_answered&rank_icon=github&hide_title=true&card_width=800#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=MagisterFelix&theme=github_dark&show_icons=true&show=reviews,discussions_started,discussions_answered&rank_icon=github&hide_title=true&card_width=800#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=MagisterFelix&theme=github_dark&border_color=21262D&show_icons=true&show=reviews,discussions_started,discussions_answered&rank_icon=github&hide_title=true&card_width=800#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-[![GitHub stats-Light](https://streak-stats.demolab.com?user=MagisterFelix&card_width=800#gh-light-mode-only)](https://github.com/DenverCoder1/github-readme-streak-stats#gh-light-mode-only)
-[![GitHub stats-Dark](https://streak-stats.demolab.com?user=MagisterFelix&theme=github-dark-blue&ring=FB8C00&fire=FB8C00&currStreakLabel=FB8C00&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&card_width=800#gh-dark-mode-only)](https://github.com/DenverCoder1/github-readme-streak-stats#gh-dark-mode-only)
+[![GitHub streak-stats-Light](https://streak-stats.demolab.com?user=MagisterFelix&card_width=800#gh-light-mode-only)](https://github.com/DenverCoder1/github-readme-streak-stats#gh-light-mode-only)
+[![GitHub streak-stats-Dark](https://streak-stats.demolab.com?user=MagisterFelix&theme=github-dark-blue&border=21262D&stroke=21262D&ring=FB8C00&fire=FB8C00&currStreakLabel=FB8C00&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&card_width=800#gh-dark-mode-only)](https://github.com/DenverCoder1/github-readme-streak-stats#gh-dark-mode-only)
